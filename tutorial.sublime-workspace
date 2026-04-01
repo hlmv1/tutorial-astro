@@ -1,0 +1,558 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"log",
+				"logger"
+			],
+			[
+				"Da",
+				"DataTypes"
+			],
+			[
+				"User",
+				"UserPresenceModel"
+			],
+			[
+				"Use",
+				"UserPresence"
+			],
+			[
+				"rada",
+				"RadarScreen"
+			],
+			[
+				"di",
+				"_dio"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"terminus",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"t",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"ter",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"Pac",
+				"Package Control: Advanced Install Packages"
+			],
+			[
+				"Control",
+				"Package Control: Advanced Install Packages"
+			],
+			[
+				"Cont",
+				"Package Control: Upgrade All Packages"
+			],
+			[
+				"Contr",
+				"Package Control: Advanced Install Packages"
+			],
+			[
+				"control",
+				"Package Control: Advanced Install Packages"
+			],
+			[
+				"minus",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"Ter",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"Terminus",
+				"Preferences: Terminus Command Palette"
+			],
+			[
+				"Contro",
+				"Package Control: List Packages"
+			],
+			[
+				"Install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/leon/Documentos/astro/tutorial"
+	],
+	"file_history":
+	[
+		"/home/leon/Documentos/astro/tutorial/.gitignore",
+		"/home/leon/Documentos/programacion/php/prado/project-micasa-mibarrio/micasa-mibarrio/.gitignore",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/chat/widgets/message_bubble.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/screens/chat_screen.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/chat/widgets/message_list.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/chat/widgets/message_input.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/chat/models/chat_message.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/screens/radar_screen.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/core/api_client.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/services/users.service.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/chat/services/socket_chat_service.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/chat/chat_state.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/services/presence.service.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/init_config.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/app.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/src/ws/socketHandler.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/services/chat.service.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/index.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/subscribers/match.subscriber.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/services/socket_service.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/screens/login_screen.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/services/location_service.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/services/match.service.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/config/environment.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/services/proximity.service.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/package.json",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/.env.development",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/.env.production",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/server.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/config/database.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/.htaccess",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/main.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/utils/notifications.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/Procfile",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/di/app_providers.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/screens/register_screen.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/core/session_manager.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/screens/splash_screen.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/chat/chat_controller.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/utils/db.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/utils/CustomError.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/node_modules/express-validator/lib/validation-result.d.ts",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/config/api_routes.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/src/utils/logger.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/handlers/userLocation.handler.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/middlewares/auth.middleware.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/controllers/config.controller.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/controllers/chat.controller.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/controllers/auth.controller.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/application/handlers/matchRequested.handler.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/eventBus.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/.env.development",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/src/infra/apiClient/closerApi.client.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/utils/chatHelpers.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/middlewares/error.middleware.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/.gitignore",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/.gitignore",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/core/api_result.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/core/auth_state.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/chat/services/chat_service.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/screens/match_request_screen.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/widgets/common_widgets.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/.env.production",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/routes/internal.routes.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/controllers/internalEvents.controller.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/routes/v1/auth.routes.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/models/UserPresence.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/test-passenger.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/src/infra/apiClient/closerApi.contract.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/chat/chat_screen.dart",
+		"/home/leon/.config/sublime-text/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/routes/v1/match.routes.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/controllers/match.controller.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/models/Match.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/constants/errorMessages.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/src/infra/events/wsEventBus.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/services/config.service.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/events/domainEventBus.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/src/eventBus.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/models/index.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/src/config/app.config.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/src/services/location.service.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/domain/events/location.events.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/core/routes.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/infra/redis/redisClient.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/redisEventBus.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/middlewares/security.middleware.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/middlewares/validation.middleware.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/routes/v1/config.routes.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/routes/v1/chat.routes.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/core/api/api_result.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/models/auth_response.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/screens/welcome_screen.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/core/constants.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/package.json",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/.env",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/.env",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/tests/integration/wsDistance.test.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/.env.test",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/.env.example",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/config/sequelize-cli.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/.env.example",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/src/handlers/internalEvents.handler.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/src/bootstrap.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/src/handlers/userLocationStored.handler.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/src/ws/location.service.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/src/eventRouter.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/src/handlers/matchCreated.handler.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/eventRouter.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/listeners/locationStored.listener.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/eventBus.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/repositories/user.repo.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/bootstrap.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/repositories/userLocation.repo.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/domain/events/user.events.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/events/handlers/userLocationUpdated.handler.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/domain/events/proximity.events.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/test/chat/chat_controller_test.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/test/mocks/mock_chat_service.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/chat/chat_service.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/test/mocks/mock_chat_service.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_app/lib/core/socket_service.dart",
+		"/home/leon/Documentos/programacion/project-closer/closer/ws_closer/src/sessions/session.manager.js",
+		"/home/leon/.config/sublime-text/Packages/User/.jsbeautifyrc",
+		"/home/leon/Documentos/programacion/project-closer/closer/domain/events/match.events.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/domain/chat.domain.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/domain/presence.domain.js",
+		"/home/leon/Documentos/programacion/project-closer/closer/closer_api/src/utils/logger.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"timeStr",
+			"_handleIncomingMessage",
+			"Row",
+			"timeStr",
+			"session",
+			"? ?",
+			"matchesOptimistic",
+			"_checkMatch",
+			"matchesOptimistic",
+			"_actualizarEstadoUsuarioEnLista",
+			"? .",
+			"_safeAdd",
+			"dedupKey",
+			"_safeAdd",
+			"final Set<String> _processedMessageIds",
+			"matchesOptimistic",
+			"? .",
+			"_configurarListeners",
+			"Debug",
+			"_configurarListeners",
+			"io.OptionBuilder",
+			"? .",
+			"verificarPermisos",
+			"PassengerAppLogFile",
+			"initState",
+			"_iniciarTimerUbicacion",
+			"Match con Alguien",
+			"jsonEncode",
+			"conectar",
+			"Error al conectar",
+			"../utils/logger",
+			"WS recibió",
+			"WS recibió location:update de",
+			"logger.info",
+			"updateLocation",
+			"print(",
+			"print",
+			"Error al registrar",
+			"console.",
+			"console",
+			"updateLocation",
+			"chat.domain",
+			"chat.domain.js",
+			"final posicion",
+			"session",
+			"await session.establecerSesion(email, password);",
+			"IO.",
+			"io.",
+			"print(",
+			"print",
+			"v2",
+			"apiBaseUrl",
+			"enviar",
+			"${API_URL}/chat",
+			"process.env.CLOSER_API_INTERNAL_URL",
+			"process.env",
+			"/api/chat/",
+			"url =",
+			"url",
+			"/api/",
+			"final url",
+			"axios",
+			"http",
+			"api/",
+			"api",
+			"kDebugMode",
+			"wsHost",
+			"print",
+			"api",
+			"errorMiddleware",
+			"_extraerErrorCode",
+			"socket.on('match:accepted'",
+			"MATCH_ACCEPT",
+			"users.map",
+			"const users = await User.findAll({",
+			"_iniciarTimerUbicacion",
+			"io.to(toUserId.toString()).emit('match:requested'",
+			"ChatController",
+			"io.on(",
+			"io.on('connection'",
+			"is_online:",
+			"where:",
+			"where",
+			"lng:",
+			"maxDistance",
+			"isWithinRadius",
+			"findAll",
+			"updateLocation",
+			".emit",
+			"socket",
+			"socket.emit",
+			"findOrCreate",
+			"UserPresence",
+			"/api/",
+			"api/",
+			"axios.post",
+			"axios",
+			"WS_CLOSER_BASE_URL",
+			"updateLocation",
+			"enviarUbicacion",
+			"Environment",
+			"conectar()",
+			"wsHost",
+			"$protocol",
+			"establecerSesion",
+			"cargarSesionPersistente",
+			"Navigator",
+			"cargarSesionPersistente()",
+			"_state",
+			"AuthState",
+			"AuthStatus",
+			"_status",
+			"_state",
+			"final response",
+			"if (typeof content !== \"string\")",
+			"validateMessageIntent",
+			"catch",
+			"INVALID_USER_ID",
+			"catch (error)",
+			"INVALID_TARGET_USER",
+			"throw new Error('INVALID_TARGET_USER');",
+			"dio",
+			"error.message",
+			"error:",
+			"RATE_LIMIT_EXCEEDED",
+			"error.message",
+			"error:",
+			"Token no proporcionado"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"_status",
+			"AuthStatus",
+			"_state"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.Terminus":
+	{
+		"height": 184.0,
+		"history":
+		[
+		]
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "tutorial.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documentos/Estudio/desarrollo-web.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
