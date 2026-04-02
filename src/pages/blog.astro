@@ -1,18 +1,5 @@
 ---
 const pageTitle = "Mi blog de Astro aprendizaje";
-
-const identity = {
-firstName: "León",
-country: "Colombia",
-occupation: "Desarrollador Web",
-hobbies: ["Ajedrez", "Leer", "Programar"],
-};
-
-const skills = ["HTML", "CSS", "JavaScript", "React", "Astro", "Node", "Python", "C/C++", "Java", "PHP"];
-
-const happy = true;
-const finished = false;
-const goal = 3;
 ---
 
 <!DOCTYPE html>
@@ -36,26 +23,6 @@ const goal = 3;
         <li><a href="/posts/post-2/">Publicación 2</a></li>
         <li><a href="/posts/post-3/">Publicación 3</a></li>
     </ul>
-
-    <p>He aquí algunos datos sobre mí:</p>
-    <ul>
-        <li>Me llamo {identity.firstName}.</li>
-        <li>Vivo en {identity.country} y trabajo como {identity.occupation}.</li>
-        {identity.hobbies.length >= 2 &&
-        <li>Dos de mis aficiones son: {identity.hobbies[0]} y {identity.hobbies[1]}</li>
-        }
-    </ul>
-    <p>Mis habilidades son:</p>
-    <ul>
-        {skills.map((skill) => <li>{skill}</li>)}
-    </ul>
-
-    {happy && <p>¡Estoy feliz de aprender Astro!</p>}
-
-    {finished && <p>¡He terminado este tutorial!</p>}
-
-    {goal === 3 ? <p>Mi objetivo es terminar en 3 días.</p> : <p>Mi objetivo no son 3 días.</p>}
-
 </body>
 
 </html>
