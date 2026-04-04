@@ -15,6 +15,8 @@ const finished = false;
 const goal = 3;
 
 const skillColor = "crimson";
+const fontWeight = "bold";
+const textCase = "uppercase";
 ---
 
 <!DOCTYPE html>
@@ -24,15 +26,16 @@ const skillColor = "crimson";
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{pageTitle}</title>
-    <style>
+    <style define:vars={{skillColor, fontWeight, textCase}}>
         h1 {
             color: purple;
             font-size: 4rem;
         }
 
         .skill {
-            color: green;
-            font-weight: bold;
+            color: var(--skillColor);
+            font-weight: var(--fontWeight);
+            text-transform: var(--textCase);
         }
     </style>
 </head>
